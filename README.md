@@ -3297,6 +3297,18 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Watching animes and movies
 - [![github-alt][github-img]](https://github.com/RogerioDoCarmo)
 
+### Rohit Prajapati
+
+- Web Developer
+- Flutter Developer
+- hobbies:
+	-singing
+	-music
+	-reading
+- Connect with me on social media platform
+- [![github-alt][github-img]](https://github.com/rohitprajapatii)
+  [![facebook-alt][facebook-img]](https://www.facebook.com/rohitprajapati06)
+
 ### Rohit Swami
 
 - Data Science Aspirant
